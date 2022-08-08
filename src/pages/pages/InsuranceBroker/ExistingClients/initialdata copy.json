@@ -1,0 +1,147 @@
+{
+  "_sa_instance_state": null,
+  "country": "",
+  "pii": 0,
+  "tenant_id": null,
+  "description": "",
+  "pci": 0,
+  "user_id": "",
+  "assessment_progress": "NOT STARTED",
+  "phi": 0,
+  "created_at": "",
+  "last_assessed_at": null,
+  "control_status": "NOT STARTED",
+  "updated_at": "",
+  "name": "",
+  "employees": 0,
+  "scan_results": {
+    "data": {
+      "credentials": {
+        "leaked_data": [
+          {
+            "name": "",
+            "passwords": [
+              {
+                "id": 0,
+                "hash": "",
+                "extra": {},
+                "domain": "",
+                "hash_type": "",
+                "source_id": "",
+                "imported_at": "",
+                "source_params": {
+                  "line": 0
+                }
+              }
+            ]
+          }
+        ],
+        "total_creds_exposed": 0
+      },
+      "email_security": {
+        "spf": {
+          "valid": false,
+          "error": ""
+        },
+        "dmarc": {
+          "valid": false,
+          "error": ""
+        }
+      },
+      "vulns": {
+        "totalNumberOfVulns": 0,
+        "data": [
+          {
+            "ip": "",
+            "cve": "",
+            "cvss": 0,
+            "summary": ""
+          }
+        ]
+      },
+      "marketplace": [],
+      "ports": {
+        "totalNumberOfHighRisk": 0,
+        "totalNumberOfMediumRisk": 0,
+        "data": {
+          "high": [],
+          "medium": []
+        }
+      }
+    },
+    "risk_results": {
+      "creds_score": 0,
+      "ports_score": 0,
+      "vulns_score": 0,
+      "ssl_expiry_score": 0,
+      "marketplace_score": 0,
+      "web_headers_score": 0,
+      "email_security_score": 0
+    },
+    "risk_recommendations": {
+      "creds_rec": "",
+      "ports_rec": "",
+      "vulns_rec": "",
+      "ssl_expiry_rec": "",
+      "marketplace_rec": "",
+      "web_headers_rec": "",
+      "email_security_rec": ""
+    }
+  },
+  "id": "",
+  "domain": "",
+  "estimated_controls": "",
+  "revenue": 0,
+  "threat_assessment_status": "NOT STARTED",
+  "application_datetime": null,
+  "industry": "",
+  "scan_status": "NOT STARTED",
+  "financial": {
+    "_sa_instance_state": null,
+    "risk": 0,
+    "premium": null,
+    "loss_exceedence": {
+      "data": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    "claims": null,
+    "company_id": "",
+    "updated_at": "",
+    "id": "",
+    "limits": null,
+    "threat_category_losses": {
+      "data": [
+        {
+          "risk": 0,
+          "threatCategory": ""
+        }
+      ]
+    },
+    "loss_by_return_period": [
+      {
+        "aep": 0,
+        "oep": 0,
+        "years": "",
+        "percentage": ""
+      }
+    ],
+    "created_at": ""
+  },
+  "control_assessments": [
+    {
+      "_sa_instance_state": null,
+      "start_date": "",
+      "completed_datetime": null,
+      "control_family_progress": "",
+      "created_at": "",
+      "id": "",
+      "last_saved": null,
+      "company_id": "",
+      "updated_at": ""
+    }
+  ]
+}

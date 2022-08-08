@@ -1,0 +1,134 @@
+[
+  {
+    "assessment": [
+      {
+        "progress": ""
+      }
+    ],
+    "assessmentProgress": "NOT STARTED",
+    "companyName": "",
+    "controlsAssessment": "NOT STARTED",
+    "country": "",
+    "description": "",
+    "domain": "",
+    "employees": "",
+    "exposureAssessment": "NOT STARTED",
+    "financials": {
+      "limit": "",
+      "lossExceedence": {
+        "data": [
+          {
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      "returnPeriod": {
+        "rp10": "",
+        "rp20": "",
+        "rp25": "",
+        "rp50": "",
+        "rp100": "",
+        "rp200": "",
+        "rp250": "",
+        "rp500": "",
+        "rp1000": "",
+        "rp2000": ""
+      },
+      "risk": "",
+      "riskM1": "",
+      "riskM2": "",
+      "threatCategory": {
+        "data": [
+          {
+            "threatCategory": "",
+            "risk": ""
+          }
+        ]
+      },
+      "uuid": ""
+    },
+    "id": "",
+    "industry": "",
+    "lastAssessed": "",
+    "pci": "",
+    "phi": "",
+    "pii": "",
+    "revenue": "",
+    "scanResults": {
+      "data": {
+        "credentials": {
+          "leaked_data": [
+            {
+              "name": "",
+              "passwords": [
+                {
+                  "id": 0,
+                  "hash": "",
+                  "extra": {},
+                  "domain": "",
+                  "hash_type": "",
+                  "source_id": "",
+                  "imported_at": "",
+                  "source_params": {
+                    "line": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "total_creds_exposed": 0
+        },
+        "email_security": {
+          "spf": {
+            "valid": false,
+            "error": ""
+          },
+          "dmarc": {
+            "valid": false,
+            "error": ""
+          }
+        },
+        "vulns": {
+          "totalNumberOfVulns": 0,
+          "data": [
+            {
+              "ip": "",
+              "cve": "",
+              "cvss": 0,
+              "summary": ""
+            }
+          ]
+        },
+        "marketplace": [],
+        "ports": {
+          "totalNumberOfHighRisk": 0,
+          "totalNumberOfMediumRisk": 0,
+          "data": {
+            "high": [],
+            "medium": []
+          }
+        }
+      },
+      "risk_results": {
+        "creds_score": 0,
+        "ports_score": 0,
+        "vulns_score": 0,
+        "ssl_expiry_score": 0,
+        "marketplace_score": 0,
+        "web_headers_score": 0,
+        "email_security_score": 0
+      },
+      "risk_recommendations": {
+        "creds_rec": "",
+        "ports_rec": "",
+        "vulns_rec": "",
+        "ssl_expiry_rec": "",
+        "marketplace_rec": "",
+        "web_headers_rec": "",
+        "email_security_rec": ""
+      }
+    },
+    "threatAssessment": "NOT STARTED"
+  }
+]
