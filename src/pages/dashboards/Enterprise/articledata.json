@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "001",
+      "title": "How to manage the security risk of remote working",
+      "image": "https://www.cybersecurity-insiders.com/wp-content/uploads/2021/12/mikey-harris-kw0z6RyvC0s-unsplash-696x464.jpg",
+      "url": "https://www.cybersecurity-insiders.com/how-to-manage-the-security-risk-of-remote-working/"
+    },
+    {
+      "id": "002",
+      "title": "Sophisticated Malware Campaign Leverages Malicious dnSpy App",
+      "image": "https://cyware-ent.s3.amazonaws.com/image_bank/764c_shutterstock_667716028.jpg",
+      "url": "https://cyware.com/news/sophisticated-malware-campaign-leverages-malicious-dnspy-app-a1a14ee0"
+    },
+    {
+      "id": "003",
+      "title": "Upskilling, better training keys to increasing cyber talent pool",
+      "image": "https://image.cnbcfm.com/api/v1/image/106995081-1640888284154-gettyimages-1081869326-pi-1773445.jpeg?v=1640888341&w=740&h=416",
+      "url": "https://www.cnbc.com/2022/01/04/upskilling-better-training-keys-to-increasing-cyber-talent-pool.html"
+    },
+    {
+      "id": "004",
+      "title": "Ransomware Attack Takes Thousands Of U.S. School Websites Offline",
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dc8beb79f87f53086660a6%2FHigh-school-lobby-with-blue-color-lockers--perspective-view--Fitness-Gym--sports-club%2F960x0.jpg%3Ffit%3Dscale",
+      "url": "https://www.forbes.com/sites/leemathews/2022/01/10/ransomware-attack-takes-thousands-of-us-school-websites-offline/?ss=cybersecurity&sh=3bac091b1969"
+    },
+    {
+      "id": "005",
+      "title": "Why Your Company’s Security Will Depend On Empathy And Team Collaboration In 2022",
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d6b34395861a841b077742%2FSelecting-person-and-building-team--Business-people-relationship-concept-%2F960x0.jpg%3Ffit%3Dscale",
+      "url": "https://www.forbes.com/sites/davidbalaban/2022/01/07/why-your-companys-security-will-depend-on-empathy-and-team-collaboration-in-2022/?ss=cybersecurity&sh=1d0b742f711e"
+    },
+    {
+      "id": "006",
+      "title": "Hackers Use Cloud Services to Distribute Nanocore, Netwire, and AsyncRAT Malware",
+      "image": "https://thehackernews.com/new-images/img/a/AVvXsEg5mCa8Uz_ZD2Yc_7nUKZW-2hw-fN_ULAYU_gzMgRllLB51i1MLpc3q-6idjGvI05Gf5r--_dtJQX52qGq-EZD21z7SS5A_iXNv5bmjD7URInZWaQrUUr2c2YO6OkMIK4kxhPj-8LSkStMKfbmsZRA7hgzvH6h4yufO5NjeoKXvLgPlRC_xd-xs_NYp=s728-e1000",
+      "url": "https://thehackernews.com/2022/01/hackers-use-cloud-services-to.html"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+// [
+//   {
+//     "companyName": "",
+//     "industry": "",
+//     "domain": "",
+//     "assessmentProgress": "NOT STARTED",
+//     "country": "",
+//     "pii": "",
+//     "pci": "",
+//     "phi": "",
+//     "scanResults": {
+//       "asset": "",
+//       "credentials": "",
+//       "exposure": {
+//         "vulnerabilities": [],
+//         "exposure": []
+//       },
+//       "marketplace": ""
+//     },
+//     "assessment": [{
+//       "progress": ""
+//     }],
+//     "financials": {
+//       "risk": "",
+//       "riskM1": "",
+//       "riskM2": "",
+//       "lossExceedence": {
+//         "data": [
+//           {
+//             "x": "",
+//             "y": ""
+//           }
+//         ]
+//       },
+//       "returnPeriod": {
+//         "rp10": "",
+//         "rp20": "",
+//         "rp25": "",
+//         "rp50": "",
+//         "rp100": "",
+//         "rp200": "",
+//         "rp250": "",
+//         "rp500": "",
+//         "rp1000": "",
+//         "rp2000": ""
+//       },
+//       "threatCategory": {
+//         "data": [
+//           {
+//             "threatCategory": "",
+//             "risk": ""
+//           }
+//         ]
+//       }
+//     }
+//   }
+// ]

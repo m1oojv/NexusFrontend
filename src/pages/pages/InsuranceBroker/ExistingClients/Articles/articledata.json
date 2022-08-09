@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "001",
+      "title": "New initiatives launched to strengthen cyber defences of businesses",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--7TU9ZruP--/c_crop%2Ch_757%2Cw_1347%2Cx_83%2Cy_147/c_fill%2Cg_auto%2Ch_468%2Cw_830/f_auto%2Cq_auto/v1/mediacorp/cna/image/2021-10/j1200882.jpg?itok=beBfeoqD",
+      "url": "https://www.channelnewsasia.com/singapore/new-initiatives-cyber-defences-businesses-security-2227481"
+    },
+    {
+      "id": "002",
+      "title": "Singapore-based cryptocurrency exchange Crypto.com hacked; more than 400 users affected",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--Cob_Qy_u--/c_fill%2Cg_auto%2Ch_468%2Cw_830/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:ap_data-1%2Cw_0.1/f_auto%2Cq_auto/v1/one-cms/core/spurs_lakers_basketball_00648.jpg?itok=Eb1w3L5y",
+      "url": "https://www.channelnewsasia.com/business/singapore-based-cryptocurrency-exchange-cryptocom-hacked-more-400-users-affected-2450671"
+    },
+    {
+      "id": "003",
+      "title": "Cosmetics company Clarins hit by data security incident, 'may involve' Singapore customers’ personal information",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--pTcDp635--/c_crop%2Ch_751%2Cw_1335%2Cx_1%2Cy_1/c_fill%2Cg_auto%2Ch_468%2Cw_830/f_auto%2Cq_auto/v1/mediacorp/cna/image/2022/01/11/clarins_homepage_screenshot.jpg?itok=bPAGTNID",
+      "url": "https://www.channelnewsasia.com/singapore/clarins-data-security-incident-singapore-customers-personal-information-log4j-software-vulnerability-2428066#:~:text=SINGAPORE%3A%20French%20cosmetics%20company%20Clarins,used%20software%20known%20as%20Log4j."
+    },
+    {
+      "id": "004",
+      "title": "Singapore government patching systems after alert on 'critical' Log4j software vulnerability",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--DdqhJoqQ--/c_fill%2Cg_auto%2Ch_468%2Cw_830/f_auto%2Cq_auto/v1/mediacorp/cna/image/2021/12/17/csa.jpg?itok=MPWNqcHM",
+      "url": "https://www.channelnewsasia.com/singapore/log4j-vulnerability-csa-raises-alert-patch-systems-cybersecurity-2386496"
+    },
+    {
+      "id": "005",
+      "title": "Fullerton Health vendor hit by hackers, exposing customer data; police report lodged",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--0t_4Bivx--/c_fill%2Cg_auto%2Ch_468%2Cw_830/f_auto%2Cq_auto/hackers--1-.jpg?itok=FyFymzTj",
+      "url": "https://www.channelnewsasia.com/singapore/fullerton-health-vendor-agape-data-breach-2267051"
+    },
+    {
+      "id": "006",
+      "title": "Digital regulations needed to build trust so people, businesses have confidence participating in digital domain: Josephine Teo",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--yAqWqgAN--/c_fill%2Cg_auto%2Ch_468%2Cw_830/f_auto%2Cq_auto/v1/mediacorp/cna/image/2021/12/01/mci_img003.jpg?itok=ITGv-e3X",
+      "url": "https://www.channelnewsasia.com/singapore/digital-regulations-build-trust-josephine-teo-2350706"
+    }
+  ]
+}
